@@ -8,7 +8,7 @@ This challenge aims to use statistical or machine learning models (e.g. linear m
 
 The challenge provides 2 data.frames (data_test and data_train, see below) corresponding to see stations described by their species abundancy. The goal of this challenge is to predict the protection status of the see station.
 
-The challenge is orchestrated by the Codabench platform, secret URL is: [https://www.codabench.org/competitions/1809/?secret_key=a503da4b-9940-4f27-9e08-042c39ffe177](https://www.codabench.org/competitions/2322/?secret_key=9f5b4548-f861-4aae-bc98-285ad0993668)
+The challenge is orchestrated by the Codabench platform, secret URL is: https://www.codabench.org/competitions/2322/?secret_key=9f5b4548-f861-4aae-bc98-285ad0993668
 
 A presentation is also available there: https://youtu.be/TCeBoQ7DvwA
 
